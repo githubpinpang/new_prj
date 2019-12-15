@@ -1,0 +1,61 @@
+﻿  stdafx.cpp
+  new_prj.cpp
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\header.h(250): warning C4091: '': ignored on left of 'void *' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\header.h(261): warning C4005: 'DISSECTOR_ASSERT': macro redefinition
+  c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\header.h(222): note: see previous definition of 'DISSECTOR_ASSERT'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\header.h(270): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\header.h(270): warning C4091: '': ignored on left of 'bool' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\header.h(722): warning C4091: 'typedef ': ignored on left of 'SS7_target' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(283): warning C4101: 'sibling': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(284): warning C4101: 'tfi': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(283): warning C4101: 'tnode': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(603): warning C4101: 'eiinfo': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(615): warning C4101: 'subset_tvb_offset': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(616): warning C4101: 'subset_tvb_length': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(930): warning C4101: 'gt_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(931): warning C4101: 'gt_tree': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1407): warning C4101: 'lr_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1428): warning C4101: 'lr_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1694): warning C4101: 'param_tree': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1693): warning C4101: 'param_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1751): warning C4101: 'param_tree': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1750): warning C4101: 'param_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1805): warning C4101: 'saved_proto': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1806): warning C4101: 'saved_can_desegment': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1944): warning C4101: 'saved_match_uint': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(2061): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(2006): warning C4101: 'saved_proto': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(2009): warning C4101: 'saved_can_desegment': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(2403): warning C4101: 'pi': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(2480): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3157): warning C4002: too many actual parameters for macro 'g_slice_new'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3491): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3502): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3518): warning C4101: 'reass_key': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3660): warning C4101: 'frag_tree_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3981): warning C4800: 'guint8': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3866): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3892): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3910): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3932): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3946): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4008): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4024): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4071): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4105): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4123): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4135): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4152): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4168): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4183): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4206): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4301): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4395): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4425): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3763): warning C4101: 'save_fragmented': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(3761): warning C4101: 'hf_var': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(4501): warning C4101: 'mtp3_addr_p': unreferenced local variable
+  Generating Code...
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_prj\new_prj\new_prj.cpp(1126): warning C4715: 'dissector_handle_get_short_name': not all control paths return a value
+  new_prj.vcxproj -> C:\Users\Vostro 3568\documents\visual studio 2015\Projects\new_prj\Debug\new_prj.exe
+  new_prj.vcxproj -> C:\Users\Vostro 3568\documents\visual studio 2015\Projects\new_prj\Debug\new_prj.pdb (Full PDB)
